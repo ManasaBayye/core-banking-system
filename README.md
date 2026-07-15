@@ -1,4 +1,4 @@
-# 🏦 Core Banking System
+# 🏦  Banking System
 
 ## Overview
 
